@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the Alpha version of *Hero's Odyssey*.<br>🌱 I’m currently learning Godot and GDScript for Game Development.<br>📚 I’m currently studying at State University of Piauí.
+🔭 Currently working on the Alpha version of *Hero's Odyssey*.<br>🌱 Aspiring game developer.<br>📚 Currently studying at State University of Piauí.
 
 
 ## 🌐 Socials:
